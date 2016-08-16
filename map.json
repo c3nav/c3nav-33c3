@@ -1,0 +1,26 @@
+{
+    "name": "de.c3nav.33c3",
+    "levels": ["0EG", "1OG", "2OG", "3OG", "4OG"],
+    "sources": {
+        "0EG legacy": {
+            "src": "sources/level0.jpg",
+            "bounds": [[23.3, 28.8], [222.98, 303.36]],
+        },
+        "1OG legacy": {
+            "src": "sources/level1.jpg",
+            "bounds": [[23.3, 28.8], [222.98, 303.36]],
+        },
+        "2OG legacy": {
+            "src": "sources/level2.jpg",
+            "bounds": [[23.3, 28.8], [222.98, 303.36]],
+        },
+        "3OG legacy": {
+            "src": "sources/level3.jpg",
+            "bounds": [[23.3, 28.8], [222.98, 303.36]],
+        },
+        "4OG legacy": {
+            "src": "sources/level4.jpg",
+            "bounds": [[23.3, 28.8], [222.98, 303.36]],
+        }
+    }
+}
