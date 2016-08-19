@@ -3,26 +3,31 @@
     "width": 400,
     "height": 240,
     "levels": ["0EG", "1OG", "2OG", "3OG", "4OG"],
-    "sources": {
-        "0EG legacy": {
+    "sources": [
+        {
+            "name": "0EG-legacy",
             "src": "sources/level0.jpg",
             "bounds": [[23.3, 28.8], [222.98, 303.36]]
         },
-        "1OG legacy": {
+        {
+            "name": "1OG-legacy",
             "src": "sources/level1.jpg",
             "bounds": [[23.3, 28.8], [222.98, 303.36]]
         },
-        "2OG legacy": {
+        {
+            "name": "2OG-legacy",
             "src": "sources/level2.jpg",
             "bounds": [[23.3, 28.8], [222.98, 303.36]]
         },
-        "3OG legacy": {
+        {
+            "name": "3OG-legacy",
             "src": "sources/level3.jpg",
             "bounds": [[23.3, 28.8], [222.98, 303.36]]
         },
-        "4OG legacy": {
+        {
+            "name": "4OG-legacy",
             "src": "sources/level4.jpg",
             "bounds": [[23.3, 28.8], [222.98, 303.36]]
         }
-    }
+    ]
 }
