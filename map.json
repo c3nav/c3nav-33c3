@@ -1,6 +1,7 @@
 {
     "name": "de.c3nav.33c3",
-    "size": [400, 240],
+    "width": 400,
+    "height": 240,
     "levels": ["0EG", "1OG", "2OG", "3OG", "4OG"],
     "sources": {
         "0EG legacy": {
