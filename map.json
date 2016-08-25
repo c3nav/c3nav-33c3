@@ -1,32 +1,7 @@
 {
     "name": "de.c3nav.33c3",
-    "bounds": [[0, 0], [240, 400]],
-    "levels": ["0", "1", "2", "3", "4"],
-    "sources": [
-        {
-            "name": "0EG-legacy",
-            "src": "sources/level0.jpg",
-            "bounds": [[23.3, 28.8], [222.98, 303.36]]
-        },
-        {
-            "name": "1OG-legacy",
-            "src": "sources/level1.jpg",
-            "bounds": [[23.3, 28.8], [222.98, 303.36]]
-        },
-        {
-            "name": "2OG-legacy",
-            "src": "sources/level2.jpg",
-            "bounds": [[23.3, 28.8], [222.98, 303.36]]
-        },
-        {
-            "name": "3OG-legacy",
-            "src": "sources/level3.jpg",
-            "bounds": [[23.3, 28.8], [222.98, 303.36]]
-        },
-        {
-            "name": "4OG-legacy",
-            "src": "sources/level4.jpg",
-            "bounds": [[23.3, 28.8], [222.98, 303.36]]
-        }
-    ]
+    "title": {
+        "en": "33C3",
+        "de": "32C3",
+    }
 }
