@@ -1,6 +1,5 @@
 {
     "name": "de.c3nav.33c3.base",
-    "map": "de.c3nav.33c3",
     "bounds": [[0, 0], [240, 400]],
     "levels": ["0", "1", "2", "3", "4"],
     "sources": [
