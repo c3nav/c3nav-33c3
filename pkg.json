@@ -1,7 +1,28 @@
 {
     "name": "de.c3nav.33c3.base",
     "bounds": [[0, 0], [240, 400]],
-    "levels": ["0", "1", "2", "3", "4"],
+    "levels": [
+        {
+            "name": "0",
+            "altitude": 0
+        },
+        {
+            "name": "1",
+            "altitude": 1
+        },
+        {
+            "name": "2",
+            "altitude": 2
+        },
+        {
+            "name": "3",
+            "altitude": 3
+        },
+        {
+            "name": "4",
+            "altitude": 4
+        }
+    ],
     "sources": [
         {
             "name": "0EG-legacy",
