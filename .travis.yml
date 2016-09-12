@@ -12,6 +12,7 @@ install:
     - mkdir -p c3nav/src/data/map
     - mv c3nav-33c3 c3nav/src/data/map/
     - cd c3nav/src/
+    - pip install -U setuptools
     - pip install -r requirements_dev.txt
 
 script:
