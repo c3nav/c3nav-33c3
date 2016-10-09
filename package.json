@@ -1,5 +1,8 @@
 {
-    "name": "de.c3nav.33c3.base",
+    "name": "de.c3nav.33c3",
     "home_repo": "https://github.com/c3nav/c3nav-33c3",
-    "bounds": [[0.0, 0.0], [240.0, 400.0]]
+    "bounds": [[0.0, 0.0], [240.0, 400.0]],
+    "depends": [
+        "de.c3nav.cch"
+    ]
 }
