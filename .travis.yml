@@ -9,7 +9,9 @@ before_install:
 
 install:
     - git clone --depth=50 --branch=master https://github.com/c3nav/c3nav.git c3nav
+    - git clone --depth=50 --branch=master https://github.com/c3nav/c3nav-cch.git c3nav
     - mkdir -p c3nav/src/data/map
+    - mv c3nav-cch c3nav/src/data/map/
     - mv c3nav-33c3 c3nav/src/data/map/
     - cd c3nav/src/
     - pip install -U setuptools
