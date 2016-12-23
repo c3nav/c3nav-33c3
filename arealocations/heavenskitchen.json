@@ -6,7 +6,7 @@
     },
     "can_search": true,
     "groups": [],
-    "location_type": "area",
+    "location_type": "roomsegment",
     "can_describe": true,
     "routing_inclusion": "default",
     "geometry": {
