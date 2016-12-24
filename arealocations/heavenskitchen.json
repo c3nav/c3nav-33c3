@@ -5,9 +5,9 @@
         "en": "Heaven's Kitchen"
     },
     "can_search": true,
+    "can_describe": true,
     "groups": [],
     "location_type": "roomsegment",
-    "can_describe": true,
     "routing_inclusion": "default",
     "geometry": {
         "type": "Polygon",

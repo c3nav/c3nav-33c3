@@ -1,0 +1,27 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Lounge",
+        "en": "Lounge"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "color": "#de98ff",
+    "groups": [],
+    "location_type": "roomsegment",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [173.19, 99.19],
+                [206.31, 99.19],
+                [206.56, 49.12],
+                [188.19, 47.44],
+                [176.69, 47.44],
+                [173.56, 48.44],
+                [173.19, 99.19]
+            ]
+        ]
+    }
+}

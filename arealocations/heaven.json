@@ -5,9 +5,10 @@
         "en": "Heaven"
     },
     "can_search": true,
+    "can_describe": true,
+    "color": "#fdbd2e",
     "groups": [],
     "location_type": "area",
-    "can_describe": true,
     "routing_inclusion": "allow_include",
     "geometry": {
         "type": "Polygon",

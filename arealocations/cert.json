@@ -1,0 +1,25 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "CERT",
+        "en": "CERT"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "color": "#e9514a",
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [222.5, 164.47],
+                [219.72, 169.44],
+                [228.19, 174.31],
+                [230.22, 169.31],
+                [222.5, 164.47]
+            ]
+        ]
+    }
+}

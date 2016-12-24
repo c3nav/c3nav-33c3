@@ -1,0 +1,25 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Speaker Lounge",
+        "en": "Speaker Lounge"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "color": "#eeb8b2",
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [243.8, 173.52],
+                [232.53, 170.45],
+                [228.91, 178.84],
+                [241.28, 182.08],
+                [243.8, 173.52]
+            ]
+        ]
+    }
+}
