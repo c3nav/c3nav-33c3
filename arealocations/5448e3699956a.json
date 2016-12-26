@@ -1,0 +1,26 @@
+{
+    "level": "1",
+    "titles": {
+        "de": "Kinky Geeks",
+        "en": "Kinky Geeks"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [164.25, 119.91],
+                [164.22, 115.22],
+                [170.56, 115.19],
+                [170.53, 120.0],
+                [164.25, 119.91]
+            ]
+        ]
+    }
+}

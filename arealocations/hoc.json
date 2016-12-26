@@ -1,0 +1,26 @@
+{
+    "level": "1",
+    "titles": {
+        "de": "Hair Operation Center",
+        "en": "Hair Operation Center"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [160.0, 115.38],
+                [160.03, 120.03],
+                [156.94, 120.03],
+                [157.03, 115.31],
+                [160.0, 115.38]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "level": "1",
+    "titles": {
+        "de": "Strings & Tea",
+        "en": "Strings & Tea"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [163.59, 120.0],
+                [160.66, 119.94],
+                [160.66, 115.34],
+                [163.59, 115.38],
+                [163.59, 120.0]
+            ]
+        ]
+    }
+}

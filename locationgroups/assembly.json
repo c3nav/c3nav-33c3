@@ -1,0 +1,9 @@
+{
+    "titles": {
+        "de": "Assembly",
+        "en": "Assembly"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "compiled_room": false
+}
