@@ -1,0 +1,24 @@
+{
+    "level": "1",
+    "titles": {
+        "de": "Himmel Info",
+        "en": "Heaven's Desk"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [191.12, 114.81],
+                [194.19, 112.31],
+                [191.75, 109.44],
+                [188.62, 112.25],
+                [191.12, 114.81]
+            ]
+        ]
+    }
+}

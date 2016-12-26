@@ -1,0 +1,24 @@
+{
+    "level": "1",
+    "titles": {
+        "de": "POC",
+        "en": "POC"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [190.19, 133.75],
+                [197.22, 133.72],
+                [197.12, 141.38],
+                [190.28, 141.28],
+                [190.19, 133.75]
+            ]
+        ]
+    }
+}

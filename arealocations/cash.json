@@ -1,0 +1,24 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Cashdesk",
+        "en": "Cashdesk"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [213.75, 159.84],
+                [216.09, 156.47],
+                [222.88, 160.75],
+                [221.22, 163.66],
+                [213.75, 159.84]
+            ]
+        ]
+    }
+}
