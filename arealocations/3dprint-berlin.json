@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "3D Print Berlin",
+        "en": "3D Print Berlin"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [114.19, 133.88],
+                [112.69, 133.81],
+                [112.56, 131.25],
+                [113.88, 131.38],
+                [114.19, 133.88]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Helferlein",
+        "en": "Helferlein"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [136.56, 145.44],
+                [135.12, 144.0],
+                [138.12, 143.12],
+                [139.44, 145.06],
+                [136.56, 145.44]
+            ]
+        ]
+    }
+}

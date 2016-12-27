@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "C3D2",
+        "en": "C3D2"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [122.56, 153.31],
+                [122.69, 150.94],
+                [125.69, 151.5],
+                [125.69, 153.38],
+                [122.56, 153.31]
+            ]
+        ]
+    }
+}

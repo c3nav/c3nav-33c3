@@ -1,0 +1,25 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "FlyingObjects",
+        "en": "FlyingObjects"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [101.5, 131.25],
+                [101.44, 129.06],
+                [107.69, 131.06],
+                [101.5, 131.25]
+            ]
+        ]
+    }
+}

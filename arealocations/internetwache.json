@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Internetwache && Friends",
+        "en": "Internetwache && Friends"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [101.12, 123.75],
+                [100.69, 122.19],
+                [103.44, 121.56],
+                [103.31, 123.69],
+                [101.12, 123.75]
+            ]
+        ]
+    }
+}

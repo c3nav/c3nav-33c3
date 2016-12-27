@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Nordlab",
+        "en": "Nordlab"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [134.56, 143.69],
+                [134.56, 142.56],
+                [139.69, 142.44],
+                [140.38, 143.62],
+                [134.56, 143.69]
+            ]
+        ]
+    }
+}

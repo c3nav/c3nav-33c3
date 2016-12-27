@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Heart of Code",
+        "en": "Heart of Code"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [101.88, 139.25],
+                [101.88, 140.12],
+                [107.0, 139.81],
+                [107.0, 139.19],
+                [101.88, 139.25]
+            ]
+        ]
+    }
+}

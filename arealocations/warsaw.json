@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Warsaw Hackerspace & Friends",
+        "en": "Warsaw Hackerspace & Friends"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [139.5, 147.75],
+                [139.5, 146.5],
+                [141.81, 146.44],
+                [141.81, 147.81],
+                [139.5, 147.75]
+            ]
+        ]
+    }
+}

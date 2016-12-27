@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "FraMa",
+        "en": "FraMa"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [159.38, 130.12],
+                [161.38, 126.25],
+                [165.12, 127.31],
+                [165.44, 130.25],
+                [159.38, 130.12]
+            ]
+        ]
+    }
+}

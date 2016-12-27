@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Attracktor",
+        "en": "Attracktor"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [162.75, 111.44],
+                [162.75, 104.5],
+                [168.62, 103.81],
+                [168.94, 111.5],
+                [162.75, 111.44]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Uptime bar",
+        "en": "Uptime bar"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "bar"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [173.5, 51.5],
+                [204.0, 51.25],
+                [204.75, 84.75],
+                [174.0, 86.25],
+                [173.5, 51.5]
+            ]
+        ]
+    }
+}

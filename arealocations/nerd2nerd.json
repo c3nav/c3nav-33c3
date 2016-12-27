@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Nerd2Nerd",
+        "en": "Nerd2Nerd"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [122.38, 114.56],
+                [122.19, 111.5],
+                [126.25, 111.38],
+                [126.25, 115.5],
+                [122.38, 114.56]
+            ]
+        ]
+    }
+}

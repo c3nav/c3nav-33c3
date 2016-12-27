@@ -1,0 +1,25 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "H4x0rPsch0rr",
+        "en": "H4x0rPsch0rr"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [138.38, 149.06],
+                [138.0, 146.06],
+                [139.81, 145.44],
+                [138.38, 149.06]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "pwnies",
+        "en": "pwnies"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [118.38, 129.94],
+                [118.38, 131.25],
+                [120.75, 131.75],
+                [120.81, 130.56],
+                [118.38, 129.94]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Hardware Hacking Area",
+        "en": "Hardware Hacking Area"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [136.81, 128.69],
+                [137.81, 111.19],
+                [143.44, 111.06],
+                [142.62, 130.5],
+                [136.81, 128.69]
+            ]
+        ]
+    }
+}

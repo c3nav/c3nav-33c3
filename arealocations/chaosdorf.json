@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Chaosdorf",
+        "en": "Chaosdorf"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [156.19, 150.69],
+                [156.19, 146.75],
+                [158.44, 146.75],
+                [158.31, 151.06],
+                [156.19, 150.69]
+            ]
+        ]
+    }
+}

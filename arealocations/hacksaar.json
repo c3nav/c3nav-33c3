@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Hacksaar",
+        "en": "Hacksaar"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [114.81, 125.75],
+                [114.81, 123.62],
+                [117.06, 124.31],
+                [117.06, 126.19],
+                [114.81, 125.75]
+            ]
+        ]
+    }
+}

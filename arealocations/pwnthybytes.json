@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "PwnThyBytes CTF Team",
+        "en": "PwnThyBytes CTF Team"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [129.19, 114.25],
+                [129.56, 111.25],
+                [134.38, 111.19],
+                [134.25, 114.56],
+                [129.19, 114.25]
+            ]
+        ]
+    }
+}

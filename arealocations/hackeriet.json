@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Hackeriet",
+        "en": "Hackeriet"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [135.56, 139.75],
+                [136.94, 137.56],
+                [138.44, 137.69],
+                [138.25, 139.31],
+                [135.56, 139.75]
+            ]
+        ]
+    }
+}

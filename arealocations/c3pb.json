@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "c3pb",
+        "en": "c3pb"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [176.12, 150.31],
+                [174.25, 146.75],
+                [178.44, 146.69],
+                [179.0, 147.94],
+                [176.12, 150.31]
+            ]
+        ]
+    }
+}

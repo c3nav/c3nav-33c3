@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Eindbrazen",
+        "en": "Eindbrazen"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [120.25, 152.56],
+                [120.12, 150.81],
+                [122.06, 150.69],
+                [121.69, 152.69],
+                [120.25, 152.56]
+            ]
+        ]
+    }
+}

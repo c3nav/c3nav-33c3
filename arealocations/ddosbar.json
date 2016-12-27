@@ -1,0 +1,26 @@
+{
+    "level": "2",
+    "titles": {
+        "de": "DDOS bar",
+        "en": "DDOS bar"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [157.75, 107.5],
+                [157.5, 103.0],
+                [174.62, 103.12],
+                [174.62, 107.25],
+                [157.75, 107.5]
+            ]
+        ]
+    }
+}

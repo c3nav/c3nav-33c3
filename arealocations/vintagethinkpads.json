@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Vintage Thinkpads",
+        "en": "Vintage Thinkpads"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [149.5, 117.75],
+                [149.5, 112.88],
+                [158.0, 112.5],
+                [158.0, 117.75],
+                [149.5, 117.75]
+            ]
+        ]
+    }
+}

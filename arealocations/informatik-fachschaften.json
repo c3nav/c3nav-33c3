@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Informatik Fachschaften",
+        "en": "Informatik Fachschaften"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [99.31, 146.5],
+                [99.25, 141.88],
+                [104.75, 141.81],
+                [104.56, 146.25],
+                [99.31, 146.5]
+            ]
+        ]
+    }
+}

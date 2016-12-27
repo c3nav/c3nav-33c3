@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Chaostreff Dortmund",
+        "en": "Chaostreff Dortmund"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [169.69, 151.75],
+                [169.56, 146.62],
+                [172.12, 146.56],
+                [172.69, 151.81],
+                [169.69, 151.75]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Bytewerk",
+        "en": "Bytewerk"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [158.31, 126.0],
+                [160.5, 127.0],
+                [165.38, 126.44],
+                [162.06, 124.56],
+                [158.31, 126.0]
+            ]
+        ]
+    }
+}

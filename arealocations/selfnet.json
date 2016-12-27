@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Selfnet",
+        "en": "Selfnet"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [145.5, 150.81],
+                [142.0, 150.56],
+                [141.56, 148.31],
+                [145.56, 148.75],
+                [145.5, 150.81]
+            ]
+        ]
+    }
+}

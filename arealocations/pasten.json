@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Pasten",
+        "en": "Pasten"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [157.31, 129.44],
+                [156.19, 126.81],
+                [157.56, 125.56],
+                [160.12, 127.81],
+                [157.31, 129.44]
+            ]
+        ]
+    }
+}

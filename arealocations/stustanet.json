@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "StuStaNet",
+        "en": "StuStaNet"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [138.56, 140.06],
+                [138.56, 137.81],
+                [140.12, 137.88],
+                [140.25, 139.81],
+                [138.56, 140.06]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Stratum 0",
+        "en": "Stratum 0"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [134.38, 141.81],
+                [134.62, 139.69],
+                [138.0, 139.0],
+                [137.94, 142.12],
+                [134.38, 141.81]
+            ]
+        ]
+    }
+}

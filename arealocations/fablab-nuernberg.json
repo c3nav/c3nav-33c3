@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Fablab N\u00fcrnberg",
+        "en": "Fablab Nuernberg"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [116.75, 149.88],
+                [116.06, 148.25],
+                [119.5, 148.75],
+                [120.12, 149.81],
+                [116.75, 149.88]
+            ]
+        ]
+    }
+}

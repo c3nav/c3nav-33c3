@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Milliways",
+        "en": "Milliways"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [106.12, 155.0],
+                [108.62, 148.69],
+                [113.0, 147.56],
+                [113.69, 155.12],
+                [106.12, 155.0]
+            ]
+        ]
+    }
+}

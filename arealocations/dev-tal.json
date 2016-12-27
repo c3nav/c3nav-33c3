@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "/dev/tal/",
+        "en": "/dev/tal/"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [164.62, 151.56],
+                [164.56, 147.0],
+                [167.12, 146.62],
+                [166.88, 151.31],
+                [164.62, 151.56]
+            ]
+        ]
+    }
+}

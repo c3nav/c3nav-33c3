@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Darkscience",
+        "en": "Darkscience"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [116.38, 152.75],
+                [117.0, 150.88],
+                [120.25, 150.62],
+                [120.75, 152.94],
+                [116.38, 152.75]
+            ]
+        ]
+    }
+}
