@@ -1,0 +1,27 @@
+{
+    "level": "1",
+    "titles": {
+        "de": "Podcaster area",
+        "en": "Podcaster area"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [146.0, 140.62],
+                [146.0, 131.62],
+                [151.75, 131.5],
+                [151.75, 138.75],
+                [149.25, 140.5],
+                [146.0, 140.62]
+            ]
+        ]
+    }
+}

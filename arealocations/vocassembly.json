@@ -1,0 +1,27 @@
+{
+    "level": "1",
+    "titles": {
+        "de": "VOC assembly",
+        "en": "VOC assembly"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [170.12, 131.12],
+                [172.62, 131.12],
+                [173.5, 120.75],
+                [170.12, 120.38],
+                [170.12, 130.62],
+                [170.12, 131.12]
+            ]
+        ]
+    }
+}

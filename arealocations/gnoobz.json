@@ -1,0 +1,26 @@
+{
+    "level": "1",
+    "titles": {
+        "de": "Gn00bz",
+        "en": "Gn00bz"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [85.5, 131.75],
+                [85.06, 129.69],
+                [88.0, 129.56],
+                [88.5, 132.5],
+                [85.5, 131.75]
+            ]
+        ]
+    }
+}

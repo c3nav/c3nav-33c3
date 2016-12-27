@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Tab Village",
+        "en": "Tab Village"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [158.75, 129.88],
+                [158.19, 125.75],
+                [159.19, 125.38],
+                [160.12, 130.06],
+                [158.75, 129.88]
+            ]
+        ]
+    }
+}

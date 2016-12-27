@@ -1,0 +1,26 @@
+{
+    "level": "1",
+    "titles": {
+        "de": "Demoscene",
+        "en": "Demoscene"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [82.5, 131.31],
+                [82.44, 129.38],
+                [84.88, 129.75],
+                [84.88, 131.75],
+                [82.5, 131.31]
+            ]
+        ]
+    }
+}

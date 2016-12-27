@@ -1,0 +1,29 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "VR workshops",
+        "en": "VR workshops"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [182.19, 133.69],
+                [180.56, 133.56],
+                [180.12, 138.69],
+                [181.31, 141.62],
+                [183.31, 142.12],
+                [183.06, 139.69],
+                [182.31, 139.38],
+                [182.19, 133.69]
+            ]
+        ]
+    }
+}

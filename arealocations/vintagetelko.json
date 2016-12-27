@@ -1,0 +1,25 @@
+{
+    "level": "1",
+    "titles": {
+        "de": "Vintage Telko",
+        "en": "Vintage Telko"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [197.25, 132.25],
+                [201.38, 134.25],
+                [206.0, 129.0],
+                [197.25, 132.25]
+            ]
+        ]
+    }
+}

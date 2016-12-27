@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "NarWals",
+        "en": "NarWals"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [123.72, 138.34],
+                [123.69, 136.0],
+                [127.59, 135.47],
+                [127.72, 137.72],
+                [123.72, 138.34]
+            ]
+        ]
+    }
+}

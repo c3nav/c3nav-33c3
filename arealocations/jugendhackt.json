@@ -1,0 +1,26 @@
+{
+    "level": "1",
+    "titles": {
+        "de": "Jugend hackt",
+        "en": "Jugend hackt"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [149.75, 131.12],
+                [151.62, 130.62],
+                [152.12, 120.0],
+                [148.88, 120.62],
+                [149.75, 131.12]
+            ]
+        ]
+    }
+}

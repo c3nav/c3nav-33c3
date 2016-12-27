@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Openlab Augsburg",
+        "en": "Openlab Augsburg"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [157.38, 130.25],
+                [157.06, 126.25],
+                [158.0, 126.06],
+                [158.62, 130.0],
+                [157.38, 130.25]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "level": "1",
+    "titles": {
+        "de": "C3S",
+        "en": "C3S"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [198.88, 142.38],
+                [201.0, 139.25],
+                [204.38, 144.75],
+                [198.88, 142.38]
+            ]
+        ]
+    }
+}

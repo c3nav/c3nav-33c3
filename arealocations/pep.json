@@ -1,0 +1,26 @@
+{
+    "level": "1",
+    "titles": {
+        "de": "PEP",
+        "en": "PEP"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [206.94, 137.44],
+                [208.06, 135.19],
+                [210.25, 136.69],
+                [209.12, 138.94],
+                [206.94, 137.44]
+            ]
+        ]
+    }
+}

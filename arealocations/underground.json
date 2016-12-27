@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "underground",
+        "en": "underground"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [148.0, 114.5],
+                [148.0, 111.75],
+                [150.38, 111.25],
+                [150.5, 114.5],
+                [148.0, 114.5]
+            ]
+        ]
+    }
+}

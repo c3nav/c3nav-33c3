@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Freifunk Hannover",
+        "en": "Freifunk Hannovoer"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [161.75, 122.75],
+                [164.62, 122.5],
+                [164.5, 115.0],
+                [162.12, 115.0],
+                [161.75, 122.75]
+            ]
+        ]
+    }
+}

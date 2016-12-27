@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Hackzogtum",
+        "en": "Hackzogtum"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [152.5, 129.88],
+                [152.5, 128.06],
+                [154.25, 127.12],
+                [154.44, 130.19],
+                [152.5, 129.88]
+            ]
+        ]
+    }
+}

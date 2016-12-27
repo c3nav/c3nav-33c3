@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "CCCCH",
+        "en": "CCCCH"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [106.91, 131.03],
+                [106.91, 129.47],
+                [109.44, 129.28],
+                [109.44, 130.84],
+                [106.91, 131.03]
+            ]
+        ]
+    }
+}

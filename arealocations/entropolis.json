@@ -1,0 +1,26 @@
+{
+    "level": "1",
+    "titles": {
+        "de": "Entropolis",
+        "en": "Entropolis"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [176.0, 123.25],
+                [175.75, 120.75],
+                [179.5, 120.38],
+                [179.5, 123.5],
+                [176.0, 123.25]
+            ]
+        ]
+    }
+}

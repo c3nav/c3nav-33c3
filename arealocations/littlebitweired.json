@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "LittleBitWeired",
+        "en": "LittleBitWeired"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [113.12, 128.19],
+                [114.44, 128.28],
+                [114.5, 126.47],
+                [112.94, 126.75],
+                [113.12, 128.19]
+            ]
+        ]
+    }
+}

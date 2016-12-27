@@ -1,0 +1,26 @@
+{
+    "level": "1",
+    "titles": {
+        "de": "Westwoodlabs",
+        "en": "Westwoodlabs"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [153.62, 110.12],
+                [153.75, 106.69],
+                [157.38, 106.62],
+                [157.19, 110.06],
+                [153.62, 110.12]
+            ]
+        ]
+    }
+}

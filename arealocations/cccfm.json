@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "CCCFM",
+        "en": "CCCFM"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [162.69, 129.5],
+                [162.19, 124.88],
+                [159.62, 125.5],
+                [160.69, 129.75],
+                [162.69, 129.5]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "level": "1",
+    "titles": {
+        "de": "Quer Femenist Geeks",
+        "en": "Quer Femenist Geeks"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [208.5, 140.12],
+                [210.5, 136.88],
+                [213.75, 138.62],
+                [212.25, 141.5],
+                [208.5, 140.12]
+            ]
+        ]
+    }
+}

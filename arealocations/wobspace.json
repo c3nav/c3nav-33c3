@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "WOBspace",
+        "en": "WOBspace"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [155.88, 109.62],
+                [155.88, 106.88],
+                [159.0, 106.62],
+                [159.0, 109.0],
+                [155.88, 109.62]
+            ]
+        ]
+    }
+}

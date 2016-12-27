@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Backspace",
+        "en": "Backspace"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [154.75, 130.12],
+                [154.75, 127.31],
+                [155.56, 126.62],
+                [155.81, 129.88],
+                [154.75, 130.12]
+            ]
+        ]
+    }
+}
