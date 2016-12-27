@@ -1,0 +1,26 @@
+{
+    "level": "1",
+    "titles": {
+        "de": "Sendezentrum",
+        "en": "Sendezentrum"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [158.16, 146.91],
+                [174.88, 146.97],
+                [175.03, 137.69],
+                [158.38, 137.81],
+                [158.16, 146.91]
+            ]
+        ]
+    }
+}

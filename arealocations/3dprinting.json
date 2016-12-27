@@ -1,0 +1,26 @@
+{
+    "level": "1",
+    "titles": {
+        "de": "3D Drucker",
+        "en": "3D Printing"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [169.78, 132.42],
+                [177.38, 132.38],
+                [177.19, 120.0],
+                [169.81, 120.06],
+                [169.78, 132.42]
+            ]
+        ]
+    }
+}

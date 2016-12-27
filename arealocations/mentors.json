@@ -1,0 +1,26 @@
+{
+    "level": "1",
+    "titles": {
+        "de": "Chaospatinnen",
+        "en": "Chaos Mentors"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [156.84, 132.78],
+                [162.5, 132.81],
+                [162.47, 120.03],
+                [156.84, 119.97],
+                [156.84, 132.78]
+            ]
+        ]
+    }
+}

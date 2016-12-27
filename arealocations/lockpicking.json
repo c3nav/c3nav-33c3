@@ -1,0 +1,26 @@
+{
+    "level": "1",
+    "titles": {
+        "de": "Lockpicking",
+        "en": "Lockpicking Area"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [182.72, 128.05],
+                [188.44, 128.0],
+                [188.38, 120.14],
+                [182.75, 120.08],
+                [182.72, 128.05]
+            ]
+        ]
+    }
+}
