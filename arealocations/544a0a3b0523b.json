@@ -1,0 +1,24 @@
+{
+    "level": "1",
+    "titles": {
+        "de": "Heaven's Kitchen Door",
+        "en": "Heaven's Kitchen Door"
+    },
+    "can_search": false,
+    "can_describe": false,
+    "groups": [],
+    "location_type": "roomsegment",
+    "routing_inclusion": "needs_permission",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [207.41, 128.39],
+                [208.2, 128.61],
+                [208.74, 126.51],
+                [207.9, 126.26],
+                [207.41, 128.39]
+            ]
+        ]
+    }
+}
