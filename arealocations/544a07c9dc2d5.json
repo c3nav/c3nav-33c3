@@ -1,0 +1,32 @@
+{
+    "level": "2",
+    "titles": {
+        "de": "Level 2 Balconies",
+        "en": "Level 2 Balconies"
+    },
+    "can_search": false,
+    "can_describe": false,
+    "groups": [],
+    "location_type": "roomsegment",
+    "routing_inclusion": "needs_permission",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [241.75, 155.88],
+                [249.06, 139.81],
+                [213.66, 119.41],
+                [210.59, 123.62],
+                [194.0, 119.06],
+                [193.62, 109.94],
+                [194.5, 110.0],
+                [194.94, 118.31],
+                [210.19, 122.56],
+                [213.38, 118.25],
+                [249.94, 139.5],
+                [242.88, 156.38],
+                [241.75, 155.88]
+            ]
+        ]
+    }
+}
