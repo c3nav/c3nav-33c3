@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Infodesk",
+        "en": "Infodesk"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [166.94, 130.03],
+                [168.81, 131.47],
+                [174.66, 130.84],
+                [176.25, 125.06],
+                [174.03, 124.0],
+                [166.75, 124.03],
+                [166.94, 130.03]
+            ]
+        ]
+    }
+}
