@@ -1,0 +1,25 @@
+{
+    "level": "1",
+    "titles": {
+        "de": "Blinken Area",
+        "en": "Blinken Area"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [197.25, 132.25],
+                [198.12, 128.5],
+                [205.88, 128.5],
+                [197.25, 132.25]
+            ]
+        ]
+    }
+}

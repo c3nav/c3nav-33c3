@@ -1,0 +1,26 @@
+{
+    "level": "1",
+    "titles": {
+        "de": "fsfe - Free Software Foundation",
+        "en": "fsfe - Free Software Foundation"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [202.0, 135.12],
+                [203.62, 132.88],
+                [206.19, 134.12],
+                [205.88, 137.75],
+                [202.0, 135.12]
+            ]
+        ]
+    }
+}

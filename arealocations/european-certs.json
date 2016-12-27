@@ -1,0 +1,26 @@
+{
+    "level": "1",
+    "titles": {
+        "de": "European CERTs and CSIRTs",
+        "en": "European CERTs and CSIRTs"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [79.88, 120.06],
+                [79.69, 117.75],
+                [83.5, 117.06],
+                [83.94, 119.56],
+                [79.88, 120.06]
+            ]
+        ]
+    }
+}

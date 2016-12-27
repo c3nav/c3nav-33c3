@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Mensch Meier and Friends",
+        "en": "Mensch Meier and Friends"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [99.25, 146.25],
+                [99.53, 141.97],
+                [103.31, 141.78],
+                [104.16, 146.34],
+                [99.25, 146.25]
+            ]
+        ]
+    }
+}

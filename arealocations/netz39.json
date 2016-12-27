@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Netz39",
+        "en": "Netz39"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [127.97, 137.44],
+                [127.81, 135.56],
+                [130.5, 134.97],
+                [131.0, 137.22],
+                [127.97, 137.44]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "level": "1",
+    "titles": {
+        "de": "Cage UK",
+        "en": "Cage UK"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [205.81, 138.44],
+                [206.88, 137.44],
+                [208.94, 138.94],
+                [208.56, 139.81],
+                [205.81, 138.44]
+            ]
+        ]
+    }
+}

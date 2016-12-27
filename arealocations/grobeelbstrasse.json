@@ -1,0 +1,26 @@
+{
+    "level": "1",
+    "titles": {
+        "de": "Grobe Elbstra\u00dfe",
+        "en": "Grobe Elbstra\u00dfe"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [146.62, 118.88],
+                [146.44, 114.0],
+                [149.25, 114.0],
+                [149.12, 119.06],
+                [146.62, 118.88]
+            ]
+        ]
+    }
+}

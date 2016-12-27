@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Nix OS",
+        "en": "NIx OS"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [155.94, 129.75],
+                [155.88, 126.38],
+                [156.69, 126.12],
+                [157.25, 130.12],
+                [155.94, 129.75]
+            ]
+        ]
+    }
+}

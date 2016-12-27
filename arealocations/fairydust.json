@@ -1,0 +1,26 @@
+{
+    "level": "1",
+    "titles": {
+        "de": "Fairy Dust Forest",
+        "en": "Fairy Dust Forest"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [135.25, 105.12],
+                [135.25, 102.88],
+                [139.75, 102.88],
+                [138.81, 105.31],
+                [135.25, 105.12]
+            ]
+        ]
+    }
+}

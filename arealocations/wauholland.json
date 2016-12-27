@@ -1,0 +1,26 @@
+{
+    "level": "1",
+    "titles": {
+        "de": "Wau Holland Stiftung",
+        "en": "Wau Holland Stiftung"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [206.75, 147.12],
+                [207.44, 144.38],
+                [209.56, 145.0],
+                [207.94, 148.31],
+                [206.75, 147.12]
+            ]
+        ]
+    }
+}

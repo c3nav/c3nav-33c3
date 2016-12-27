@@ -1,0 +1,26 @@
+{
+    "level": "1",
+    "titles": {
+        "de": "NOC helpdesk",
+        "en": "NOC helpdesk"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [146.69, 105.88],
+                [146.44, 102.94],
+                [148.81, 102.94],
+                [150.19, 105.88],
+                [146.69, 105.88]
+            ]
+        ]
+    }
+}

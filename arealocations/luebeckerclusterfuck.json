@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Luebecker Clusterfuck",
+        "en": "Luebecker Clusterfuck"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [162.25, 106.62],
+                [162.12, 102.88],
+                [165.25, 103.0],
+                [165.12, 107.12],
+                [162.25, 106.62]
+            ]
+        ]
+    }
+}

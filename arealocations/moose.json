@@ -1,0 +1,26 @@
+{
+    "level": "1",
+    "titles": {
+        "de": "Moose",
+        "en": "Moose"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [85.25, 129.25],
+                [88.25, 129.25],
+                [88.5, 125.38],
+                [85.31, 125.69],
+                [85.25, 129.25]
+            ]
+        ]
+    }
+}

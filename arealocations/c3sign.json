@@ -1,0 +1,25 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "C3Sign",
+        "en": "C3Sign"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [146.25, 102.62],
+                [145.25, 100.0],
+                [148.38, 99.62],
+                [146.25, 102.62]
+            ]
+        ]
+    }
+}

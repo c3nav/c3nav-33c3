@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "xil.se",
+        "en": "xil.se"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [150.0, 106.0],
+                [149.0, 103.38],
+                [150.88, 102.0],
+                [152.5, 105.25],
+                [150.0, 106.0]
+            ]
+        ]
+    }
+}

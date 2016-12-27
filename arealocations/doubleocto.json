@@ -1,0 +1,26 @@
+{
+    "level": "1",
+    "titles": {
+        "de": "Doubleoctothorpebuero",
+        "en": "Doubleoctothorpebuero"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [86.38, 114.75],
+                [90.12, 114.38],
+                [90.19, 112.44],
+                [86.75, 112.31],
+                [86.38, 114.75]
+            ]
+        ]
+    }
+}

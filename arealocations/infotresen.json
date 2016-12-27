@@ -1,0 +1,27 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Infotresen",
+        "en": "Info point"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [173.69, 128.62],
+                [173.5, 124.75],
+                [168.69, 124.12],
+                [167.69, 128.38],
+                [170.69, 131.0],
+                [173.69, 128.62]
+            ]
+        ]
+    }
+}

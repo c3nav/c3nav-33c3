@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Shackspace",
+        "en": "Shackspace"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [117.16, 142.5],
+                [117.34, 139.94],
+                [120.56, 139.88],
+                [120.88, 142.5],
+                [117.16, 142.5]
+            ]
+        ]
+    }
+}

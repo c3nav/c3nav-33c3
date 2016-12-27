@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Chaos Vermittlung",
+        "en": "Chaos Vermittlung"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [116.69, 155.22],
+                [116.62, 152.22],
+                [118.75, 152.34],
+                [119.0, 155.12],
+                [116.69, 155.22]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Defbra",
+        "en": "Defbra"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [150.12, 102.25],
+                [150.0, 99.88],
+                [153.25, 100.0],
+                [153.38, 102.0],
+                [150.12, 102.25]
+            ]
+        ]
+    }
+}

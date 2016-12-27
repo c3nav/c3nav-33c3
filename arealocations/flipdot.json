@@ -1,0 +1,26 @@
+{
+    "level": "1",
+    "titles": {
+        "de": "Flipdot (Hackerspace Kassel)",
+        "en": "Flipdot (Hackerspace Kassel)"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [85.38, 122.31],
+                [85.38, 120.0],
+                [90.38, 119.94],
+                [90.31, 122.31],
+                [85.38, 122.31]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Brazenamt",
+        "en": "Brazenamt"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [114.53, 128.34],
+                [114.59, 126.44],
+                [118.84, 126.38],
+                [118.84, 128.09],
+                [114.53, 128.34]
+            ]
+        ]
+    }
+}

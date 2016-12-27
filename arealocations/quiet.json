@@ -1,0 +1,26 @@
+{
+    "level": "1",
+    "titles": {
+        "de": "Quiet area for assemblies",
+        "en": "Quiet area for assemblies"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [79.56, 130.0],
+                [84.62, 128.69],
+                [85.44, 119.62],
+                [80.0, 120.62],
+                [79.56, 130.0]
+            ]
+        ]
+    }
+}
