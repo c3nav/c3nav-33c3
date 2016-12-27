@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "cccac",
+        "en": "cccac"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [160.69, 151.06],
+                [160.62, 146.69],
+                [162.5, 146.62],
+                [162.5, 151.12],
+                [160.69, 151.06]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "WordPress",
+        "en": "WordPress"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [105.44, 121.06],
+                [105.31, 118.12],
+                [109.19, 118.0],
+                [109.19, 120.38],
+                [105.44, 121.06]
+            ]
+        ]
+    }
+}

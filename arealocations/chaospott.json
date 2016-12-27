@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Chaospott",
+        "en": "Chaospott"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [158.31, 151.12],
+                [158.38, 146.75],
+                [160.5, 146.75],
+                [160.5, 151.19],
+                [158.31, 151.12]
+            ]
+        ]
+    }
+}

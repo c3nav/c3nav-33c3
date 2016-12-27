@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Seidenstrasse",
+        "en": "Seidenstrasse"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [115.38, 129.81],
+                [115.38, 127.88],
+                [118.12, 128.25],
+                [117.38, 129.88],
+                [115.38, 129.81]
+            ]
+        ]
+    }
+}

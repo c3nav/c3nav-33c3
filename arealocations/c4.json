@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "c4",
+        "en": "c4"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [166.88, 151.62],
+                [167.19, 146.81],
+                [169.56, 146.81],
+                [169.75, 151.75],
+                [166.88, 151.62]
+            ]
+        ]
+    }
+}

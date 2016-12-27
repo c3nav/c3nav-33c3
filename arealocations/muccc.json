@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "MUCCC",
+        "en": "MUCCC"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [125.75, 153.31],
+                [125.75, 152.06],
+                [128.94, 151.62],
+                [128.94, 153.31],
+                [125.75, 153.31]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Team 23",
+        "en": "Team 23"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [151.69, 130.19],
+                [151.88, 127.81],
+                [155.12, 126.94],
+                [156.12, 129.88],
+                [153.31, 130.12],
+                [151.69, 130.19]
+            ]
+        ]
+    }
+}

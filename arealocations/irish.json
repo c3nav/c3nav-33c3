@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Irish Embassy",
+        "en": "Irish Embassy"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [113.5, 151.94],
+                [113.06, 149.62],
+                [116.88, 149.56],
+                [117.06, 152.06],
+                [113.5, 151.94]
+            ]
+        ]
+    }
+}

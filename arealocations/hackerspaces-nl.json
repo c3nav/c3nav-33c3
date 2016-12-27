@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Hackerspaces.nl",
+        "en": "Hackerspaces.nl"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [115.12, 149.88],
+                [113.38, 147.62],
+                [118.69, 147.56],
+                [116.56, 149.38],
+                [115.12, 149.88]
+            ]
+        ]
+    }
+}

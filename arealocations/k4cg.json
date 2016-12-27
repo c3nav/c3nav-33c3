@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "K4CG",
+        "en": "K4CG"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [117.19, 151.31],
+                [116.94, 149.88],
+                [119.88, 149.81],
+                [120.44, 151.5],
+                [117.19, 151.31]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "c-base",
+        "en": "c-base"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [170.56, 162.81],
+                [171.81, 159.56],
+                [182.25, 156.31],
+                [183.44, 158.75],
+                [179.44, 167.94],
+                [168.62, 168.25],
+                [170.56, 162.81]
+            ]
+        ]
+    }
+}

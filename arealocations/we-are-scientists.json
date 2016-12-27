@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "We are scientists!",
+        "en": "We are scientists!"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [172.94, 153.88],
+                [172.19, 146.69],
+                [174.38, 146.62],
+                [175.81, 150.25],
+                [172.94, 153.88]
+            ]
+        ]
+    }
+}

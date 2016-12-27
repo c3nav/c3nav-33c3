@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "KIKA Hacklab",
+        "en": "KIKA Hacklab"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [148.62, 126.38],
+                [148.56, 122.31],
+                [152.62, 122.44],
+                [152.19, 124.81],
+                [148.62, 126.38]
+            ]
+        ]
+    }
+}

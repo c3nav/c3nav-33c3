@@ -1,0 +1,27 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "ICMP",
+        "en": "ICMP"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [113.38, 138.75],
+                [113.06, 133.94],
+                [120.81, 134.12],
+                [120.81, 138.44],
+                [113.62, 138.69],
+                [113.38, 138.75]
+            ]
+        ]
+    }
+}

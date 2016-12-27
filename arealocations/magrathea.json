@@ -1,0 +1,25 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Magrathea Laboratories (mag.lab)",
+        "en": "Magrathea Laboratories (mag.lab)"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [129.75, 134.88],
+                [129.5, 131.19],
+                [133.31, 132.38],
+                [129.75, 134.88]
+            ]
+        ]
+    }
+}

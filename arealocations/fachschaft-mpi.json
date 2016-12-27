@@ -1,0 +1,25 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Fachschaft MPI",
+        "en": "Fachschaft MPI"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [131.25, 136.69],
+                [130.81, 133.81],
+                [134.31, 133.06],
+                [131.25, 136.69]
+            ]
+        ]
+    }
+}

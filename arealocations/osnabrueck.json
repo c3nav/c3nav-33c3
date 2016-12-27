@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Chaostreff Osnabrueck",
+        "en": "Chaostreff Osnabrueck"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [115.19, 121.06],
+                [115.44, 118.5],
+                [118.69, 119.06],
+                [118.0, 121.0],
+                [115.19, 121.06]
+            ]
+        ]
+    }
+}

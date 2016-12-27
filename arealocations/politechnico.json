@@ -1,0 +1,27 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Politecnico Open unix Labs",
+        "en": "Politecnico Open unix Labs"
+    },
+    "can_search": false,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [131.06, 121.19],
+                [131.44, 117.94],
+                [133.69, 119.56],
+                [133.62, 121.12],
+                [132.81, 121.5],
+                [131.06, 121.19]
+            ]
+        ]
+    }
+}

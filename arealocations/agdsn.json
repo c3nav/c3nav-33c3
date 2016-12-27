@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "AG DSN",
+        "en": "AG DSN"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [142.25, 147.62],
+                [145.12, 147.31],
+                [145.12, 148.44],
+                [142.12, 148.12],
+                [142.25, 147.62]
+            ]
+        ]
+    }
+}

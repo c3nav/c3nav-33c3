@@ -1,0 +1,25 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Search Wing",
+        "en": "Search Wing"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [103.25, 129.44],
+                [109.38, 129.31],
+                [109.38, 130.62],
+                [103.25, 129.44]
+            ]
+        ]
+    }
+}

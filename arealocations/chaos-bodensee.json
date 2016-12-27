@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Chaos Bodensee",
+        "en": "Chaos Bodensee"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [101.81, 137.62],
+                [101.81, 136.5],
+                [108.56, 136.19],
+                [108.69, 137.62],
+                [101.81, 137.62]
+            ]
+        ]
+    }
+}

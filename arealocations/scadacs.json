@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "SCADACS",
+        "en": "SCADACS"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [140.12, 145.5],
+                [138.94, 141.62],
+                [140.44, 140.56],
+                [142.0, 145.56],
+                [140.12, 145.5]
+            ]
+        ]
+    }
+}

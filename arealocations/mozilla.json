@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Mozilla",
+        "en": "Mozilla"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [109.75, 122.69],
+                [106.56, 123.25],
+                [106.44, 121.56],
+                [109.38, 120.75],
+                [109.75, 122.69]
+            ]
+        ]
+    }
+}

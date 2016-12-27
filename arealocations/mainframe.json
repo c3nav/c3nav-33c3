@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Mainframe",
+        "en": "Mainframe"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [117.19, 126.25],
+                [117.19, 121.75],
+                [119.94, 122.0],
+                [119.88, 126.19],
+                [117.19, 126.25]
+            ]
+        ]
+    }
+}

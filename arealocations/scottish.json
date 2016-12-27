@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Scottish Consulate",
+        "en": "Scottish Consulate"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [113.56, 154.88],
+                [113.44, 151.56],
+                [116.94, 152.0],
+                [117.38, 154.81],
+                [113.56, 154.88]
+            ]
+        ]
+    }
+}

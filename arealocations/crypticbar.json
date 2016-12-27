@@ -1,0 +1,26 @@
+{
+    "level": "2",
+    "titles": {
+        "de": "Cryptic bar",
+        "en": "Cryptic bar"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "bar"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [91.88, 108.62],
+                [91.75, 105.62],
+                [99.88, 105.12],
+                [100.25, 108.25],
+                [91.88, 108.62]
+            ]
+        ]
+    }
+}

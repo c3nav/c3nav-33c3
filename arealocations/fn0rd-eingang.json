@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Fn0rd Eingang",
+        "en": "Fn0rd Eingang"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [157.0, 148.38],
+                [156.94, 147.06],
+                [158.19, 147.06],
+                [158.12, 150.19],
+                [157.0, 148.38]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Lokale Gruppe",
+        "en": "Lokale Gruppe"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [155.12, 164.38],
+                [154.38, 161.81],
+                [156.69, 161.69],
+                [157.06, 163.81],
+                [155.12, 164.38]
+            ]
+        ]
+    }
+}

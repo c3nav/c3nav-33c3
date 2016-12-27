@@ -1,0 +1,9 @@
+{
+    "titles": {
+        "de": "Bar",
+        "en": "Bar"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "compiled_room": false
+}

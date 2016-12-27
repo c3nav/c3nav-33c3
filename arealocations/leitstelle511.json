@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Leitstelle511",
+        "en": "Leitstelle511"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [148.62, 159.19],
+                [147.06, 155.88],
+                [149.88, 155.69],
+                [151.25, 159.25],
+                [148.62, 159.19]
+            ]
+        ]
+    }
+}

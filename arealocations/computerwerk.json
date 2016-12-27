@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Computerwerk",
+        "en": "Computerwerk"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [101.56, 142.06],
+                [101.69, 140.25],
+                [104.81, 140.25],
+                [104.88, 142.81],
+                [101.56, 142.06]
+            ]
+        ]
+    }
+}

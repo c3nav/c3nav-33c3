@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Fail0verflow",
+        "en": "Fail0verflow"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [117.44, 154.38],
+                [121.0, 154.5],
+                [121.0, 152.19],
+                [117.12, 152.38],
+                [117.44, 154.38]
+            ]
+        ]
+    }
+}

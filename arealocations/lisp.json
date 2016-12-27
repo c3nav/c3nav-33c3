@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Lisp-HH",
+        "en": "Lisp-HH"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [99.94, 121.25],
+                [99.81, 119.56],
+                [102.06, 119.56],
+                [102.06, 121.12],
+                [99.94, 121.25]
+            ]
+        ]
+    }
+}

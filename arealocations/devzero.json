@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "/dev/zero",
+        "en": "/dev/zero"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "roomsegment",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [138.0, 109.88],
+                [137.88, 108.0],
+                [145.12, 108.38],
+                [145.0, 110.5],
+                [138.0, 109.88]
+            ]
+        ]
+    }
+}

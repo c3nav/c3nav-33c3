@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Alles CTF",
+        "en": "Alles CTF"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [104.75, 138.88],
+                [104.75, 137.69],
+                [109.19, 138.0],
+                [109.06, 139.38],
+                [104.75, 138.88]
+            ]
+        ]
+    }
+}

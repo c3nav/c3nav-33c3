@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Reiseb\u00fcro",
+        "en": "Travel Agency"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [188.88, 112.5],
+                [188.88, 110.88],
+                [191.5, 110.62],
+                [191.5, 112.38],
+                [188.88, 112.5]
+            ]
+        ]
+    }
+}

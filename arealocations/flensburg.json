@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Chaostreff Flensburg",
+        "en": "Chaostreff Flensburg"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [99.25, 118.94],
+                [99.19, 116.25],
+                [101.06, 116.12],
+                [101.5, 118.5],
+                [99.25, 118.94]
+            ]
+        ]
+    }
+}

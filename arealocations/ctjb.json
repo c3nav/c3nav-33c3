@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "CTJB",
+        "en": "CTJB"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [166.0, 122.75],
+                [166.44, 115.69],
+                [170.5, 115.06],
+                [170.06, 122.75],
+                [166.0, 122.75]
+            ]
+        ]
+    }
+}

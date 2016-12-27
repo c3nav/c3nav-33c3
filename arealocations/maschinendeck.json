@@ -1,0 +1,27 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Maschinendeck",
+        "en": "Maschinendeck"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [122.75, 154.75],
+                [129.25, 154.62],
+                [129.31, 153.56],
+                [122.75, 153.5],
+                [122.81, 154.38],
+                [122.75, 154.75]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Luxeria",
+        "en": "Luxeria"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [102.38, 135.88],
+                [101.88, 134.44],
+                [109.94, 134.69],
+                [109.75, 136.56],
+                [102.38, 135.88]
+            ]
+        ]
+    }
+}

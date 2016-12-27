@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Labor",
+        "en": "Labor"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [162.75, 151.44],
+                [162.62, 147.06],
+                [164.25, 146.88],
+                [164.5, 151.69],
+                [162.75, 151.44]
+            ]
+        ]
+    }
+}
