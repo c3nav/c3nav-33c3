@@ -1,0 +1,34 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Halle 3 S\u00fcdgang Ost",
+        "en": "Hall 3 Southern Hallway East"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "roomsegment",
+    "routing_inclusion": "default",
+    "bssids": "04:bd:88:62:96:d0\r\n04:bd:88:62:96:d1\r\n04:bd:88:62:96:d2\r\n04:bd:88:62:96:c0\r\n04:bd:88:62:96:c1\r\n04:bd:88:62:96:c2",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [114.75, 110.38],
+                [145.44, 109.94],
+                [145.56, 115.5],
+                [157.75, 114.94],
+                [158.0, 99.5],
+                [145.12, 99.81],
+                [145.44, 102.62],
+                [113.06, 102.94],
+                [112.88, 99.38],
+                [104.94, 99.62],
+                [104.94, 102.69],
+                [100.12, 102.44],
+                [100.25, 110.5],
+                [114.75, 110.38]
+            ]
+        ]
+    }
+}

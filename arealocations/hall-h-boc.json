@@ -1,0 +1,28 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Halle H S\u00fcdwest (BOC)",
+        "en": "Hall H South-West (BOC)"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "roomsegment",
+    "routing_inclusion": "default",
+    "bssids": "04:bd:88:63:c2:70\r\n04:bd:88:63:c2:71\r\n04:bd:88:63:c2:72\r\n04:bd:88:63:c2:60\r\n04:bd:88:63:c2:61\r\n04:bd:88:63:c2:62",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [64.88, 75.38],
+                [88.0, 74.25],
+                [104.0, 74.25],
+                [116.12, 73.12],
+                [119.0, 66.0],
+                [119.25, 49.88],
+                [65.25, 49.62],
+                [64.88, 75.38]
+            ]
+        ]
+    }
+}

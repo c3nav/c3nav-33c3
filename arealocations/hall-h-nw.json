@@ -1,0 +1,28 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Halle H Nordwest",
+        "en": "Hall H North-West"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "roomsegment",
+    "routing_inclusion": "default",
+    "bssids": "ac:a3:1e:e5:e2:70\r\nac:a3:1e:e5:e2:71\r\nac:a3:1e:e5:e2:72\r\nac:a3:1e:e5:e2:60\r\nac:a3:1e:e5:e2:61\r\nac:a3:1e:e5:e2:62",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [79.88, 73.5],
+                [65.12, 74.62],
+                [64.75, 99.0],
+                [128.88, 98.38],
+                [116.12, 78.88],
+                [106.75, 74.0],
+                [94.5, 71.5],
+                [79.88, 73.5]
+            ]
+        ]
+    }
+}

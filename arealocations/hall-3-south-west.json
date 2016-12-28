@@ -1,0 +1,32 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Halle 3 S\u00fcdwest",
+        "en": "Hall 3 South West"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "roomsegment",
+    "routing_inclusion": "default",
+    "bssids": "ac:a3:1e:e5:e3:d0\r\nac:a3:1e:e5:e3:d1\r\nac:a3:1e:e5:e3:d2\r\nac:a3:1e:e5:e3:c0\r\nac:a3:1e:e5:e5:30\r\nac:a3:1e:e5:e5:31\r\nac:a3:1e:e5:e5:32\r\nac:a3:1e:e5:e5:20\r\nac:a3:1e:e5:e5:21\r\nac:a3:1e:e5:e5:22",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [97.81, 111.25],
+                [97.81, 115.44],
+                [99.25, 115.25],
+                [99.19, 124.56],
+                [101.56, 124.44],
+                [101.69, 136.5],
+                [116.62, 133.94],
+                [120.5, 126.0],
+                [120.69, 117.44],
+                [120.44, 111.0],
+                [117.5, 110.88],
+                [97.81, 111.25]
+            ]
+        ]
+    }
+}

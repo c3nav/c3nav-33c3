@@ -1,0 +1,31 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Chaos West",
+        "en": "Chaos West"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [179.81, 168.34],
+                [184.41, 158.44],
+                [178.47, 146.84],
+                [146.09, 146.62],
+                [146.09, 155.47],
+                [146.91, 155.56],
+                [152.59, 168.41],
+                [158.03, 168.25],
+                [158.19, 167.94],
+                [159.69, 167.88],
+                [159.75, 168.38],
+                [179.81, 168.34]
+            ]
+        ]
+    }
+}

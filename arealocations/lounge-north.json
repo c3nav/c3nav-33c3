@@ -1,0 +1,25 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Lounge Nord",
+        "en": "Lounge North"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "roomsegment",
+    "routing_inclusion": "default",
+    "bssids": "ac:a3:1e:e5:e2:b0\r\nac:a3:1e:e5:e2:b1\r\nac:a3:1e:e5:e2:b2\r\nac:a3:1e:e5:e2:a0\r\nac:a3:1e:e5:e2:a1\r\nac:a3:1e:e5:e2:a2",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [173.62, 98.38],
+                [206.0, 98.12],
+                [205.88, 74.75],
+                [173.88, 75.0],
+                [173.62, 98.38]
+            ]
+        ]
+    }
+}

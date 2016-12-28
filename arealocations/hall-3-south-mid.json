@@ -1,0 +1,25 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Halle 3 S\u00fcd Mitte",
+        "en": "Hall 3 South Center"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "roomsegment",
+    "routing_inclusion": "default",
+    "bssids": "ac:a3:1e:e5:e2:50\r\nac:a3:1e:e5:e2:51\r\nac:a3:1e:e5:e2:52\r\nac:a3:1e:e5:e2:40",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [114.0, 111.06],
+                [114.19, 134.31],
+                [128.69, 134.31],
+                [129.12, 111.06],
+                [114.0, 111.06]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Halle 3/EG Foyer S\u00fcdwest",
+        "en": "Hall 3/Ground Level Foyer South West"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "roomsegment",
+    "routing_inclusion": "default",
+    "bssids": "04:bd:88:63:c2:b0\r\n04:bd:88:63:c2:b1\r\n04:bd:88:63:c2:b2\r\n04:bd:88:63:c2:a0\r\n04:bd:88:63:c2:a1\r\n04:bd:88:63:c2:a2\r\n04:bd:88:63:c3:d0\r\n04:bd:88:63:c3:d1\r\n04:bd:88:63:c3:d2\r\n04:bd:88:63:c3:c0",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [145.38, 120.19],
+                [145.75, 120.62],
+                [143.44, 120.81],
+                [143.38, 122.88],
+                [164.19, 122.0],
+                [162.94, 99.31],
+                [145.12, 99.38],
+                [145.38, 120.19]
+            ]
+        ]
+    }
+}

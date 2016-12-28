@@ -1,0 +1,30 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Halle 3 Nordwest",
+        "en": "Hall 3 North West"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "roomsegment",
+    "routing_inclusion": "default",
+    "bssids": "ac:a3:1e:e5:e4:30\r\nac:a3:1e:e5:e4:31\r\nac:a3:1e:e5:e4:32\r\nac:a3:1e:e5:e4:20\r\nac:a3:1e:e5:e0:30\r\nac:a3:1e:e5:e0:31\r\nac:a3:1e:e5:e0:32\r\nac:a3:1e:e5:e0:20\r\nac:a3:1e:e5:e0:21\r\nac:a3:1e:e5:e0:22",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [97.56, 155.38],
+                [97.81, 150.88],
+                [99.25, 150.88],
+                [99.31, 141.75],
+                [101.56, 141.56],
+                [101.75, 133.56],
+                [114.56, 133.62],
+                [115.5, 134.06],
+                [115.62, 155.5],
+                [97.56, 155.38]
+            ]
+        ]
+    }
+}

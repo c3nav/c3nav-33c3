@@ -1,0 +1,25 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Halle 3 Nord Mitte",
+        "en": "Hall 3 North Center"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "roomsegment",
+    "routing_inclusion": "default",
+    "bssids": "ac:a3:1e:e5:e3:30\r\nac:a3:1e:e5:e3:31\r\nac:a3:1e:e5:e3:32\r\nac:a3:1e:e5:e3:20",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [113.06, 155.44],
+                [113.94, 133.81],
+                [129.19, 133.69],
+                [129.44, 155.56],
+                [113.06, 155.44]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Halle 3/EG Foyer Nordost",
+        "en": "Hall 3/Ground Level Foyer North East"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "roomsegment",
+    "routing_inclusion": "default",
+    "bssids": "04:bd:88:63:c3:50\r\n04:bd:88:63:c3:51\r\n04:bd:88:63:c3:52\r\n04:bd:88:63:c3:40\r\n04:bd:88:63:90:90\r\n04:bd:88:63:90:91\r\n04:bd:88:63:90:92\r\n04:bd:88:63:90:80\r\n04:bd:88:63:90:81\r\n04:bd:88:63:90:82",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [163.81, 137.5],
+                [162.62, 121.38],
+                [183.19, 122.25],
+                [183.31, 145.62],
+                [178.62, 145.44],
+                [175.06, 137.56],
+                [163.81, 137.5]
+            ]
+        ]
+    }
+}

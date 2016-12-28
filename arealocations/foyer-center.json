@@ -1,0 +1,32 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Halle 3/EG Foyer Mitte",
+        "en": "Hall 3/Ground Level Foyer Center"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "roomsegment",
+    "routing_inclusion": "default",
+    "bssids": "04:bd:88:63:8e:90\r\n04:bd:88:63:8e:91\r\n04:bd:88:63:8e:92\r\n04:bd:88:63:8e:80\r\n04:bd:88:63:8e:81\r\n04:bd:88:63:8e:82\r\n04:bd:88:63:90:90\r\n04:bd:88:63:90:91\r\n04:bd:88:63:90:92\r\n04:bd:88:63:90:80\r\n04:bd:88:63:90:81\r\n04:bd:88:63:90:82\r\n04:bd:88:63:c0:f0\r\n04:bd:88:63:c0:f1\r\n04:bd:88:63:c0:f2\r\n04:bd:88:63:c0:e0",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [157.19, 130.19],
+                [162.06, 131.75],
+                [165.88, 131.69],
+                [170.75, 129.31],
+                [175.94, 124.19],
+                [175.12, 117.88],
+                [169.0, 113.94],
+                [158.88, 112.62],
+                [152.19, 118.5],
+                [151.56, 125.31],
+                [154.75, 129.31],
+                [157.19, 130.19]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Halle H Mitte (LOC)",
+        "en": "Hall H Center (LOC)"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "roomsegment",
+    "routing_inclusion": "default",
+    "bssids": "ac:a3:1e:e5:da:f0\r\nac:a3:1e:e5:da:f1\r\nac:a3:1e:e5:da:f2\r\nac:a3:1e:e5:da:e0\r\nac:a3:1e:e5:da:e1\r\nac:a3:1e:e5:da:e2",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [129.12, 98.12],
+                [124.5, 90.62],
+                [124.88, 82.38],
+                [133.62, 74.12],
+                [157.38, 75.38],
+                [172.5, 75.75],
+                [173.0, 98.5],
+                [129.12, 98.12]
+            ]
+        ]
+    }
+}

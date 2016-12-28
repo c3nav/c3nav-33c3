@@ -1,0 +1,26 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Halle 3 S\u00fcdost",
+        "en": "Hall 3 South East"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "roomsegment",
+    "routing_inclusion": "default",
+    "bssids": "ac:a3:1e:e5:e3:f0\r\nac:a3:1e:e5:e3:f1\r\nac:a3:1e:e5:e3:f2\r\nac:a3:1e:e5:e3:e0\r\nac:a3:1e:e5:e3:e1\r\nac:a3:1e:e5:e3:e2\r\nac:a3:1e:e5:e4:f0\r\nac:a3:1e:e5:e4:f1\r\nac:a3:1e:e5:e4:f2\r\nac:a3:1e:e5:e4:e0",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [142.5, 136.31],
+                [128.19, 134.25],
+                [126.31, 131.81],
+                [125.38, 110.81],
+                [143.31, 110.94],
+                [142.5, 136.31]
+            ]
+        ]
+    }
+}

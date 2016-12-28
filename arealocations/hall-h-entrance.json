@@ -1,0 +1,31 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Halle H Zufahrt",
+        "en": "Hall H Road Access"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "roomsegment",
+    "routing_inclusion": "default",
+    "bssids": "24:de:c6:1d:c8:30\r\n24:de:c6:1d:c8:31\r\n24:de:c6:1d:c8:32\r\n24:de:c6:1d:c8:20\r\n24:de:c6:1d:c8:21\r\n24:de:c6:1d:c8:22",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [49.12, 148.19],
+                [66.94, 153.0],
+                [68.62, 148.25],
+                [64.12, 147.06],
+                [71.62, 120.56],
+                [62.12, 117.56],
+                [55.25, 144.44],
+                [54.81, 143.88],
+                [55.12, 142.94],
+                [50.69, 141.62],
+                [49.12, 148.19]
+            ]
+        ]
+    }
+}

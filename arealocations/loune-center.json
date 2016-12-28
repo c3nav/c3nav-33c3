@@ -1,0 +1,25 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Lounge Mitte",
+        "en": "Lounge Center"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "roomsegment",
+    "routing_inclusion": "default",
+    "bssids": "04:bd:88:63:8c:10\r\n04:bd:88:63:8c:11\r\n04:bd:88:63:8c:12\r\n04:bd:88:63:8c:00\r\n04:bd:88:63:8c:01\r\n04:bd:88:63:8c:02",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [173.5, 86.5],
+                [206.12, 86.62],
+                [206.12, 67.12],
+                [173.75, 67.88],
+                [173.5, 86.5]
+            ]
+        ]
+    }
+}

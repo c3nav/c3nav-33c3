@@ -1,0 +1,35 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Halle 3 S\u00fcdgang West",
+        "en": "Hall 3 Southern Hallway West"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "roomsegment",
+    "routing_inclusion": "default",
+    "bssids": "04:bd:88:62:9b:30\r\n04:bd:88:62:9b:31\r\n04:bd:88:62:9b:32\r\n04:bd:88:62:9b:20\r\n04:bd:88:62:9b:21\r\n04:bd:88:62:9b:22",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [75.31, 110.38],
+                [77.12, 102.75],
+                [90.31, 102.69],
+                [90.5, 99.56],
+                [97.81, 99.38],
+                [97.69, 100.44],
+                [98.62, 100.5],
+                [98.81, 102.62],
+                [104.81, 102.44],
+                [105.0, 99.5],
+                [112.81, 99.44],
+                [112.94, 102.75],
+                [114.38, 102.88],
+                [114.75, 110.19],
+                [75.31, 110.38]
+            ]
+        ]
+    }
+}

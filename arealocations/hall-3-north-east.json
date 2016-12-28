@@ -1,0 +1,30 @@
+{
+    "level": "0",
+    "titles": {
+        "de": "Halle 3 Nordost",
+        "en": "Hall 3 North East"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "roomsegment",
+    "routing_inclusion": "default",
+    "bssids": "ac:a3:1e:e5:d7:90\r\nac:a3:1e:e5:d7:91\r\nac:a3:1e:e5:d7:92\r\nac:a3:1e:e5:d7:80\r\nac:a3:1e:e5:d7:81\r\nac:a3:1e:e5:d7:82\r\nac:a3:1e:e5:e3:70\r\nac:a3:1e:e5:e3:71\r\nac:a3:1e:e5:e3:72\r\nac:a3:1e:e5:e3:60",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [127.19, 155.38],
+                [126.62, 135.06],
+                [128.75, 133.31],
+                [142.5, 135.12],
+                [141.81, 138.88],
+                [141.62, 146.75],
+                [145.88, 146.5],
+                [145.75, 155.5],
+                [141.25, 155.12],
+                [127.19, 155.38]
+            ]
+        ]
+    }
+}
