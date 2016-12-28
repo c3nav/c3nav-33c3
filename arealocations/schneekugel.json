@@ -1,0 +1,29 @@
+{
+    "level": "2",
+    "titles": {
+        "de": "Schneekugel",
+        "en": "Giant snow globe"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [160.25, 96.5],
+                [157.25, 92.25],
+                [156.75, 86.5],
+                [163.25, 83.88],
+                [170.5, 85.62],
+                [171.75, 92.88],
+                [166.25, 97.0],
+                [160.25, 96.5]
+            ]
+        ]
+    }
+}

@@ -1,8 +1,8 @@
 {
     "level": "1",
     "titles": {
-        "de": "C3S",
-        "en": "C3S"
+        "de": "EDRI - european digital rights",
+        "en": "EDRI - european digital rights"
     },
     "can_search": true,
     "can_describe": true,
@@ -15,11 +15,11 @@
         "type": "Polygon",
         "coordinates": [
             [
-                [198.88, 142.38],
-                [201.0, 139.25],
-                [202.94, 141.06],
-                [200.69, 143.19],
-                [198.88, 142.38]
+                [212.88, 163.31],
+                [213.94, 160.25],
+                [216.12, 160.94],
+                [214.31, 164.06],
+                [212.88, 163.31]
             ]
         ]
     }
