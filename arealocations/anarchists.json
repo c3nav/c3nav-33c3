@@ -1,0 +1,29 @@
+{
+    "level": "1",
+    "titles": {
+        "de": "Anarchist Village",
+        "en": "Anarchist Village"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [
+        "assembly"
+    ],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [228.88, 165.0],
+                [226.25, 163.56],
+                [224.56, 157.88],
+                [227.25, 153.56],
+                [223.81, 151.25],
+                [225.62, 148.19],
+                [234.44, 153.12],
+                [228.88, 165.0]
+            ]
+        ]
+    }
+}

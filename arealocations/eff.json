@@ -1,8 +1,8 @@
 {
     "level": "1",
     "titles": {
-        "de": "C3S",
-        "en": "C3S"
+        "de": "EFF - electronic frontier foundation",
+        "en": "EFF - electronic frontier foundation"
     },
     "can_search": true,
     "can_describe": true,
@@ -15,11 +15,11 @@
         "type": "Polygon",
         "coordinates": [
             [
-                [198.88, 142.38],
-                [201.0, 139.25],
-                [202.94, 141.06],
-                [200.69, 143.19],
-                [198.88, 142.38]
+                [216.25, 160.62],
+                [214.31, 159.56],
+                [215.75, 158.06],
+                [217.56, 158.94],
+                [216.25, 160.62]
             ]
         ]
     }

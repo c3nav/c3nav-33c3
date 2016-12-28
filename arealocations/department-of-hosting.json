@@ -1,8 +1,8 @@
 {
     "level": "0",
     "titles": {
-        "de": "Department of Hosting",
-        "en": "Department of Hosting"
+        "de": "Department of Hosting Services",
+        "en": "Department of Hosting Services"
     },
     "can_search": true,
     "can_describe": true,
